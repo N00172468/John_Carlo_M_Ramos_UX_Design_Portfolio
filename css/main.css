@@ -1320,6 +1320,10 @@ input::-moz-focus-inner {
 	opacity: 1;
 }
 
+.specificOpacity {
+	color: #959595;
+}
+
 
 /* ===================================================================
  *  08. header styles - (_layout.scss)
